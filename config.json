@@ -1,0 +1,25 @@
+{
+  "repo": "mozilla/popcorn-js",
+  "name": "Popbot",
+  "handle": "botio",
+  "script_timeout": 3600,
+  "private_dir": "./private",
+  "public_dir": "./public",
+  "port": 8002,
+  "use_queue": true,
+  "host": "popbot.butyr.org",
+  "whitelist": [
+    "ScottDowne",
+    "alfredo",
+    "benrito",
+    "brettgaylor",
+    "butterbot",
+    "cadecairos",
+    "dseif",
+    "humphd",
+    "jbuck",
+    "mjschranz",
+    "rwldrn",
+    "secretrobotron"
+  ]
+}
